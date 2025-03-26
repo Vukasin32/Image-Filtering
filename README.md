@@ -1,5 +1,4 @@
 # Image filtering
 This was a university assignment for the "Digital Image Processing" class. <br/>
-Image filtering implemented in MATLAB.
-This project was done in 
-Arbitrary mask can be used, specified by user
+Idea of project is to implement image filtering from scratch, using matrix operations.<br/>
+This project was completely done in MATLAB.
